@@ -83,7 +83,7 @@
 
 `OpenCV` `Python` `TensorFlow` `Chrome API`
 
-[View Repository →](https://github.com/Ashmar001/real-time-focus-monitor)
+[View Repository →](https://github.com/Ashmar001/Real-Time-Focus-Monitor-Chrome-Extension-)
 
 ---
 
