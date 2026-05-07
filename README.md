@@ -99,6 +99,17 @@
 [View Website →](https://unfilteredhealing.in/)
 
 ---
+## 🏆 Hackathon Hall of Fame
+
+| 🏅 | Achievement | Venue | Year |
+|---|---|---|---|
+| 🥇 Winner | Hackstronauts 24-Hour Challenge — by Exadata Club | SRM College | 2025 |
+| 📜 Participant | SRCAS Hackathon 2.0 — 24-Hour Hackathon | Sri Ramakrishna College of Arts & Science, Coimbatore | 2025 |
+| 📜 Participant | KJU Hackathon | Kristu Jayanti College, Bangalore | 2026 |
+| 🎯 Finalist | Google Developers Hack Tech 2.0 | Online | 2024 |
+
+---
+
 
 ## Certifications
 
