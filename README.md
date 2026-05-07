@@ -113,12 +113,9 @@
 
 ## Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| Foundation of Git Certification | GitKraken |
-| Oracle Certified Foundations Associate | Oracle |
-| Python for Data Science | Great Learning |
-
+- 🔐 **GitKraken** – Foundation of Git Certification
+- ☁️ **Oracle** – Cloud Foundations Associate
+- 🐍 **Great Learning** – Python for Data Science
 ---
 
 ## GitHub Analytics
