@@ -16,7 +16,7 @@
   <tr>
     <td width="70%">
       <h3>🧠 Ashmar Sharoon</h3>
-      <p><strong>AI Engineer (In Training) | Deep Learning Explorer | Algorithm Enthusiast</strong></p>
+      <p><strong>AI Engineer | Deep Learning Explorer | Algorithm Enthusiast</strong></p>
       <p>🎓 M.Sc. IT @ SKASC | 📍 Coimbatore, IN</p>
       <p>🤖 Transforming raw data into intelligent decisions</p>
       <p>☕ Powered by curiosity, caffeine, and clean code</p>
