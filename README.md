@@ -1,47 +1,33 @@
-<div align="center">
-  <img src="YOUR-IMAGE-URL-HERE.jpg" alt="Ashmar Sharoon" width="100%">
-</div>
-
-<br>
-
-<h1 align="center">Ashmar Sharoon</h1>
-
-<h3 align="center">Machine Learning Engineer</h3>
-
 <p align="center">
-  <a href="mailto:ashmarsharoon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashmarsharoon@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/ashmar-sharoon">
-    <img src="https://img.shields.io/badge/LinkedIn-ashmar--sharoon-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Ashmar001">
-    <img src="https://img.shields.io/badge/GitHub-Ashmar001-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="YOUR-PORTFOLIO-LINK">
-    <img src="https://img.shields.io/badge/Portfolio-ashmarsharoon.dev-000000?style=flat-square&logo=vercel&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Ashmar+Sharoon;ML+Engineer+%7C+AI+Enthusiast;Hackathon+Winner;Final+Year+AI+%26+ML+Student" alt="Typing">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashmar001&label=Profile%20Views&color=0e75b6&style=flat-square">
-  <img src="https://img.shields.io/github/followers/Ashmar001?label=Followers&style=flat-square&color=0e75b6">
+  🏆 Hackstronauts Winner | Google HackTech Finalist | Building AI for Impact 🤖
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashmar001&label=PROFILE%20VIEWS&color=00FFAA&style=flat">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Ashmar001?label=FOLLOWERS&color=00FFAA&style=flat">
+</p>
 
-## About Me
-
-M.Sc. Information Technology student at Sri Krishna Arts & Science College with a strong foundation in Machine Learning and AI. Passionate about building intelligent systems that solve real-world problems.
-
-- 🎓 **M.Sc. Information Technology** | SKASC | Expected 2027 | CGPA: 7.5
-- 🎓 **B.Sc. Artificial Intelligence & Machine Learning** | Rathinam College | 2024 | CGPA: 7.8
-- 🏆 **1st Place** - Hackstronauts 24hr Challenge (50+ teams) | SRM College 2025
-- 🎯 **Finalist** - Google Developers Hack Tech 2.0 | 2024
-
----
-
-## Technical Skills
+<table>
+  <tr>
+    <td width="70%">
+      <h3>🧠 Ashmar Sharoon</h3>
+      <p><strong>AI Engineer (In Training) | Deep Learning Explorer | Algorithm Enthusiast</strong></p>
+      <p>🎓 M.Sc. IT @ SKASC | 📍 Coimbatore, IN</p>
+      <p>🤖 Transforming raw data into intelligent decisions</p>
+      <p>☕ Powered by curiosity, caffeine, and clean code</p>
+      <p>🏆 Hackstronauts Champion | Google HackTech Finalist</p>
+      <p>⬇️ Scroll down to see what I'm building ⬇️</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Ashmar001/Ashmar001/main/github%20profile.jpeg" width="180" style="border-radius: 20px;">
+    </td>
+  </tr>
+</table>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
