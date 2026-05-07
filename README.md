@@ -121,15 +121,14 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashmar001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashmar001&theme=dark&hide_border=true&background=0D1117" width="48%">
+  <table>
+    <tr>
+      <td align="center"><b>📊 358</b><br>Total Contributions<br><sub>Aug 17, 2023 - Present</sub></td>
+      <td align="center"><b>🔥 2 days</b><br>Current Streak<br><sub>May 6 - May 7</sub></td>
+      <td align="center"><b>⚡ 2 days</b><br>Longest Streak<br><sub>Feb 10 - Feb 11</sub></td>
+    </tr>
+  </table>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmar001&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" width="40%">
-</div>
-
----
 
 ## Languages
 
