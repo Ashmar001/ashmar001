@@ -75,7 +75,7 @@
 
 `Python` `Flask` `NLP` `MongoDB`
 
-[View Repository →](https://github.com/Ashmar001/chat-platform-sentiment-analysis)
+[View Repository →](https://github.com/Ashmar001/Full-Stack-Chatting-Website)
 
 ---
 
