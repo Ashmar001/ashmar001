@@ -111,11 +111,38 @@
 ---
 
 
-## Certifications
+## 📜 Certifications
 
-- 🔐 **GitKraken** – Foundation of Git Certification
-- ☁️ **Oracle** – Cloud Foundations Associate
-- 🐍 **Great Learning** – Python for Data Science
+
+<div align="center">
+  <table border="0" cellpadding="15" cellspacing="0" align="center">
+    <tr>
+      <td align="center" width="250" style="border: none;">
+        <img src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" width="200">
+        <br>
+        <strong>🏆 Foundation of Git Certification</strong>
+        <br>
+        <sub>Issued: GitKraken</sub>
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="200">
+        <br>
+        <strong>☁️ Cloud Foundations Associate</strong>
+        <br>
+        <sub>Issued: Oracle</sub>
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <img src="https://img.shields.io/badge/-Great%20Learning-FF6C37?style=for-the-badge&logo=greatlearning&logoColor=white" width="200">
+        <br>
+        <strong>🐍 Python for Data Science</strong>
+        <br>
+        <sub>Issued: Great Learning</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 ---
 
 ## GitHub Analytics
