@@ -196,15 +196,31 @@
 
 ## Let's Connect
 
-I'm always open to ML engineering opportunities, collaborations, and interesting projects.
+<h2 align="center">🤝 Let's Connect</h2>
 
-📧 **Email:** ashmarsharoon@gmail.com  
-💼 **LinkedIn:** [ashmar-sharoon](https://linkedin.com/in/ashmar-sharoon)  
-🐙 **GitHub:** [Ashmar001](https://github.com/Ashmar001)  
-🌐 **Portfolio:** [ashmarsharoon.dev](https://ashmarsharoon.dev)
-
----
+<p align="center">
+  Open to ML engineering opportunities, collaborations, internships, and meaningful tech projects.
+</p>
 
 <div align="center">
-  <i>"Building intelligent systems that matter."</i>
+
+<a href="mailto:ashmarsharoon@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ashmarsharoon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ashmar-sharoon-b7135a255">
+  <img src="https://img.shields.io/badge/LinkedIn-Ashmar%20Sharoon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://ashmarsharoonsportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
 </div>
+
+<br>
+
+<div align="center">
+  <i>"Learning deeply. Building thoughtfully. Growing one project at a time."</i>
+</div>
+
