@@ -143,27 +143,54 @@
 </div>
 
 <br>
----
+
 
 ## GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>📊 358</b><br>Total Contributions<br><sub>Aug 17, 2023 - Present</sub></td>
-      <td align="center"><b>🔥 2 days</b><br>Current Streak<br><sub>May 6 - May 7</sub></td>
-      <td align="center"><b>⚡ 2 days</b><br>Longest Streak<br><sub>Feb 10 - Feb 11</sub></td>
-    </tr>
-  </table>
+
+
+<table>
+  <tr>
+    <td align="center" width="240">
+      <b>📈 358</b>
+      <br>
+      Total Contributions
+      <br>
+      <sub>Since Aug 17, 2023</sub>
+    </td>
+    <td align="center" width="240">
+      <b>🔥 2 Days</b>
+      <br>
+      Current Streak
+      <br>
+      <sub>May 6 - May 7</sub>
+    </td>
+    <td align="center" width="240">
+      <b>⚡ 2 Days</b>
+      <br>
+      Longest Streak
+      <br>
+      <sub>Feb 10 - Feb 11</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
+
+
 
 ## Languages
 
-| Language | Proficiency |
-|----------|-------------|
-| English | Professional Working Proficiency |
-| Tamil | Native |
-| Hindi | Limited Working Proficiency |
+<h2 align="center">🌐 Languages</h2>
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Professional%20Working-2E86C1?style=for-the-badge)
+![Tamil](https://img.shields.io/badge/Tamil-Native-27AE60?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Limited%20Working-F39C12?style=for-the-badge)
+
+</div>
+
 
 ---
 
