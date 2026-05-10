@@ -212,7 +212,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Ashmar%20Sharoon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://ashmarsharoonsportfolio.netlify.app/">
+<a href="https://ashmar-sharoon-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
